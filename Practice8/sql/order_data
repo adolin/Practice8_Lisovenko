@@ -1,0 +1,5 @@
+INSERT INTO `order` VALUES ('1', '1', '1');
+INSERT INTO `order` VALUES ('2', '2', '2');
+INSERT INTO `order` VALUES ('3', '3', '1');
+INSERT INTO `order` VALUES ('4', '4', '1');
+INSERT INTO `order` VALUES ('5', '5', '2');

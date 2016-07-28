@@ -1,0 +1,9 @@
+INSERT INTO bill (value) SELECT
+                           SUM(menu.price * order_menu.amount) AS val
+                         FROM
+                           order_menu
+                           INNER JOIN menu ON order_menu.dish = menu.id_menu
+                           INNER JOIN `order` ON order_menu.`order` = `order`.id_order
+                         GROUP BY
+                           `order`.client
+

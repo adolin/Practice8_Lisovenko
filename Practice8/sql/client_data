@@ -1,0 +1,5 @@
+INSERT INTO client (name) VALUE ('Tom');
+INSERT INTO client (name) VALUE ('Alex');
+INSERT INTO client (name) VALUE ('Mary');
+INSERT INTO client (name) VALUE ('Nicky');
+INSERT INTO client (name) VALUE ('Rob');

@@ -1,0 +1,2 @@
+INSERT INTO administrator (name) VALUE ('Nick');
+INSERT INTO administrator (name) VALUE ('Jack');

@@ -1,0 +1,12 @@
+INSERT INTO menu (dish, price) VALUES ('Грибной суп', 40);
+INSERT INTO menu (dish, price) VALUES ('Уха', 43);
+INSERT INTO menu (dish, price) VALUES ('Борщ', 45);
+INSERT INTO menu (dish, price) VALUES ('Сырная тарелка', 120);
+INSERT INTO menu (dish, price) VALUES ('Шашлык (100 г.)', 30);
+INSERT INTO menu (dish, price) VALUES ('Картофель фри', 28);
+INSERT INTO menu (dish, price) VALUES ('Картофель по деревенкски', 31);
+INSERT INTO menu (dish, price) VALUES ('Салат "Цезарь"', 50);
+INSERT INTO menu (dish, price) VALUES ('Салат "Крабовый"', 43);
+INSERT INTO menu (dish, price) VALUES ('Салат "Оливье"', 39);
+INSERT INTO menu (dish, price) VALUES ('Эспрессо', 15);
+INSERT INTO menu (dish, price) VALUES ('Американо', 18);
